@@ -1,2 +1,2 @@
 # ca_hash
-dip,sip,dport,sport,proto五元组的hash计算
+dip, sip, dport, sport, proto five tuple hash calculation
